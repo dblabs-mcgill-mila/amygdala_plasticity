@@ -2,10 +2,12 @@
 
 This project aims to elucidate the temporal dynamics of amygdala subregions and their interaction with cortical and subcortical areas, utilizing data from the UK Biobank. The analysis focuses on changes in gray matter volume over time and explores the relationship between these changes and a wide range of phenotypic measures.
 
-Data Preparation
+# Data Preparation
+
 The script requires UK Biobank brain imaging data and phenotypic measures. Ensure that you have access to these datasets and modify the script paths to where your datasets are located.
 
-Running the Analysis
+# Running the Analysis
+
 The main script includes several key steps:
 
 Loading and preprocessing UK Biobank data.
@@ -21,15 +23,15 @@ Visualizations of median ranked changes in gray matter volume across different a
 Heatmaps showing the relationship between amygdala subregions and cortical/subcortical areas.
 Results from permutation testing indicating the significance of the PLSC components.
 
-Customization
+# Customization
 
 You can modify the analysis by changing the PLSC components, selecting different subsets of the data, or applying the methodology to other brain regions.
 
-License
+# License
 
 This project is open source. Feel free to use and modify the code as needed.
 
-Acknowledgments
+# Acknowledgments
 
 This project utilizes data from the UK Biobank. We thank the UK Biobank and its participants for making this research possible.
 
