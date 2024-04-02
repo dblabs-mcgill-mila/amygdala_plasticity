@@ -22,12 +22,15 @@ Heatmaps showing the relationship between amygdala subregions and cortical/subco
 Results from permutation testing indicating the significance of the PLSC components.
 
 Customization
+
 You can modify the analysis by changing the PLSC components, selecting different subsets of the data, or applying the methodology to other brain regions.
 
 License
+
 This project is open source. Feel free to use and modify the code as needed.
 
 Acknowledgments
+
 This project utilizes data from the UK Biobank. We thank the UK Biobank and its participants for making this research possible.
 
 ## Getting Started
