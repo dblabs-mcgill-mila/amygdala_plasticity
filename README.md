@@ -16,7 +16,7 @@ To run the analyses, you will need Python 3 with the following libraries install
 
 You can install these packages via pip:
 ```bash
-pip install numpy pandas nibabel nilearn scikit-learn matplotlib seaborn scipy
+pip install numpy pandas nibabel nilearn scikit-learn matplotlib seaborn scipy'''
 Data Preparation
 The script requires UK Biobank brain imaging data and phenotypic measures. Ensure that you have access to these datasets and modify the script paths to where your datasets are located.
 
