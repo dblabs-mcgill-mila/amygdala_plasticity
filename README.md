@@ -2,22 +2,6 @@
 
 This project aims to elucidate the temporal dynamics of amygdala subregions and their interaction with cortical and subcortical areas, utilizing data from the UK Biobank. The analysis focuses on changes in gray matter volume over time and explores the relationship between these changes and a wide range of phenotypic measures.
 
-## Getting Started
-
-To run the analyses, you will need Python 3 with the following libraries installed:
-- NumPy
-- Pandas
-- NiBabel
-- Nilearn
-- scikit-learn
-- Matplotlib
-- Seaborn
-- SciPy
-
-You can install these packages via pip:
-```bash
-pip install numpy pandas nibabel nilearn scikit-learn matplotlib seaborn scipy
-bash'''
 Data Preparation
 The script requires UK Biobank brain imaging data and phenotypic measures. Ensure that you have access to these datasets and modify the script paths to where your datasets are located.
 
@@ -45,3 +29,19 @@ This project is open source. Feel free to use and modify the code as needed.
 
 Acknowledgments
 This project utilizes data from the UK Biobank. We thank the UK Biobank and its participants for making this research possible.
+
+## Getting Started
+
+To run the analyses, you will need Python 3 with the following libraries installed:
+- NumPy
+- Pandas
+- NiBabel
+- Nilearn
+- scikit-learn
+- Matplotlib
+- Seaborn
+- SciPy
+
+You can install these packages via pip:
+```bash
+pip install numpy pandas nibabel nilearn scikit-learn matplotlib seaborn scipy
